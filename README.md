@@ -12,6 +12,35 @@
 
 AI智能助手是一个完全响应式的Web应用，支持PC端和移动端，提供智能对话服务。本项目采用Vue3、Pinia和Vite构建，具有美观的UI设计和流畅的交互体验。
 
+## 屏幕截图
+
+### PC端效果展示
+
+<div align="center">
+  <img src="./src/assets/images/pc-1.png" alt="PC端效果图1" width="800" />
+  <p>PC端聊天界面 - 亮色模式</p>
+</div>
+
+<div align="center">
+  <img src="./src/assets/images/pc-2.png" alt="PC端效果图2" width="800" />
+  <p>PC端设置界面 - 深色模式</p>
+</div>
+
+### 移动端效果展示
+
+<p align="center">
+  <img src="./src/assets/images/h5-1.png" alt="移动端效果图1" width="300" />
+  <br>
+  <em>移动端聊天界面</em>
+</p>
+
+<p align="center">
+  <img src="./src/assets/images/h5-2.png" alt="移动端效果图2" width="300" />
+  <br>
+  <em>移动端侧边菜单</em>
+</p>
+
+
 ### 主要特性
 
 - **智能对话**：基于先进AI模型，提供自然、流畅的对话体验
@@ -124,34 +153,6 @@ npm run build
 3. **交互适配**：
    - 触摸设备：优化触摸目标大小
    - 桌面设备：提供更丰富的悬停效果和额外信息
-
-## 屏幕截图
-
-### PC端效果展示
-
-<div align="center">
-  <img src="./src/assets/images/pc-1.png" alt="PC端效果图1" width="800" />
-  <p>PC端聊天界面 - 亮色模式</p>
-</div>
-
-<div align="center">
-  <img src="./src/assets/images/pc-2.png" alt="PC端效果图2" width="800" />
-  <p>PC端设置界面 - 深色模式</p>
-</div>
-
-### 移动端效果展示
-
-<p align="center">
-  <img src="./src/assets/images/h5-1.png" alt="移动端效果图1" width="300" />
-  <br>
-  <em>移动端聊天界面</em>
-</p>
-
-<p align="center">
-  <img src="./src/assets/images/h5-2.png" alt="移动端效果图2" width="300" />
-  <br>
-  <em>移动端侧边菜单</em>
-</p>
 
 ## 浏览器兼容性
 
