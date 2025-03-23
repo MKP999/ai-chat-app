@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect x="50" y="100" width="700" height="400" rx="20" ry="20" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  
+  <!-- 对话气泡 - AI -->
+  <rect x="100" y="150" width="300" height="80" rx="15" ry="15" fill="#f1f5f9"/>
+  <circle cx="80" cy="180" r="20" fill="#6366f1"/>
+  <text x="80" y="185" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#ffffff">AI</text>
+  <text x="120" y="180" font-family="Arial, sans-serif" font-size="14" fill="#18181b">您好！我是AI助手，有什么可以帮您？</text>
+  
+  <!-- 对话气泡 - 用户 -->
+  <rect x="350" y="250" width="300" height="80" rx="15" ry="15" fill="#ede9fe"/>
+  <circle cx="670" cy="280" r="20" fill="#4f46e5"/>
+  <text x="670" y="285" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#ffffff">用</text>
+  <text x="370" y="280" font-family="Arial, sans-serif" font-size="14" fill="#18181b">请帮我总结下人工智能的发展历程</text>
+  
+  <!-- 对话气泡 - AI -->
+  <rect x="100" y="350" width="500" height="100" rx="15" ry="15" fill="#f1f5f9"/>
+  <circle cx="80" cy="380" r="20" fill="#6366f1"/>
+  <text x="80" y="385" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#ffffff">AI</text>
+  <text x="120" y="380" font-family="Arial, sans-serif" font-size="14" fill="#18181b">人工智能的发展大致可分为三个阶段：萌芽期、</text>
+  <text x="120" y="400" font-family="Arial, sans-serif" font-size="14" fill="#18181b">理论发展期和大规模应用期。从最初的图灵测试到</text>
+  <text x="120" y="420" font-family="Arial, sans-serif" font-size="14" fill="#18181b">如今的大型语言模型，AI已深入各行各业...</text>
+</svg> 
