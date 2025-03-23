@@ -127,7 +127,31 @@ npm run build
 
 ## 屏幕截图
 
-*在此处可添加不同设备上的应用截图*
+### PC端效果展示
+
+<div align="center">
+  <img src="./src/assets/images/pc-1.png" alt="PC端效果图1" width="800" />
+  <p>PC端聊天界面 - 亮色模式</p>
+</div>
+
+<div align="center">
+  <img src="./src/assets/images/pc-2.png" alt="PC端效果图2" width="800" />
+  <p>PC端设置界面 - 深色模式</p>
+</div>
+
+### 移动端效果展示
+
+<p align="center">
+  <img src="./src/assets/images/h5-1.png" alt="移动端效果图1" width="300" />
+  <br>
+  <em>移动端聊天界面</em>
+</p>
+
+<p align="center">
+  <img src="./src/assets/images/h5-2.png" alt="移动端效果图2" width="300" />
+  <br>
+  <em>移动端侧边菜单</em>
+</p>
 
 ## 浏览器兼容性
 
